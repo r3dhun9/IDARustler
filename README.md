@@ -48,4 +48,4 @@ This step may take a long time if you're trying to fix a big malware, please wai
 
 ## Limitation
 
-The fixer is worked based on the known strings and hases, if the rust binary wipes its strings during the compile time (E.g. Obfuscated or encrypted.) the fixer might not be worked.
+The fixer is worked based on the known strings and hashes, if the rust binary wipes its strings during the compile time (E.g. Obfuscated or encrypted.) the fixer might not be worked.
